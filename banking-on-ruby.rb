@@ -4,4 +4,5 @@ class Account
     @name = name
     @balance = balance
   end
+  
 end
